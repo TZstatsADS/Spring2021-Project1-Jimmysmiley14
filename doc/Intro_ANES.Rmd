@@ -1,5 +1,5 @@
 ---
-title: "A simple R Notebook for exploring the ANES cumulative time series data"
+title: "A simple Root Notebook for exploring the ANES cumulative time series data"
 output:
   html_document:
     df_print: paged
